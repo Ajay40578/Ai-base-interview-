@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI",
+  "description": "AI-Powered Mock Interview & Career Preparation Platform. Practice realistic interviews, receive instant feedback, identify skill gaps, and improve interview performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
